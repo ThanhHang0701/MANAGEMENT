@@ -1,0 +1,49 @@
+.add-product{
+    margin-bottom: 10px;
+}
+
+.newProduct{
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.chooseCategory{
+    float: left;
+    width: 200px;
+}
+
+.chooseProduct{
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.chooseAdd{
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.newProduct{
+    top: 20px;
+    right: 35px;
+    background: #006DF0;
+    padding: 7px 25px;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.option{
+  height: 32px;
+  border-radius: 4px;
+}
+
+.option-choose{
+    height: 80px;
+    background-color: white;
+}
+
+.newBtn{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

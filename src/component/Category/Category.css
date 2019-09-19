@@ -1,0 +1,30 @@
+.list-group-item {
+	border: none !important;
+}
+
+.categories span {
+	width: 1rem;
+	height: 1rem;
+}
+
+.categories span.indent {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.categories span.icon {
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+.categories span.pointer {
+	cursor: pointer;
+}
+
+.categories .editing {
+	color: black;
+}
+
+.categories .btn {
+	margin-left: 5px;
+}

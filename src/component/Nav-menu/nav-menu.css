@@ -1,0 +1,36 @@
+.icon {
+    max-width: 15%;
+    height: auto;
+}
+
+.icon-admin{
+    padding-left: 11px;
+}
+
+.icon-storekeeper{
+    padding-left: 11px;
+}
+
+.icon-shipper{
+    padding-left: 11px;
+}
+
+.icon-home{
+    padding-left: 12px;
+}
+
+.icon-product{
+    padding-left: 8px;
+}
+
+.icon-category{
+    padding-left: 8px;
+}
+
+.icon-import{
+    padding-left: 13px;
+}
+
+.icon-export{
+    padding-left: 13px;
+}

@@ -1,0 +1,10 @@
+.choose{
+    width: 200px;
+    height: 32px;
+    border-radius: 4px;
+  }
+  
+  .option{
+    height: 32px;
+    border-radius: 4px;
+  }

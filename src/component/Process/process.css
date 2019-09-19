@@ -1,0 +1,39 @@
+.Process{
+    background: white
+}
+.center{
+    margin: auto;
+    width: 80%;
+    padding-top: 10px;
+}
+
+.centerDiv{
+    width: 50%;
+    margin: auto;
+}
+
+.centerbutton{
+   background: #006DF0;
+   font-size: 13px;
+   color: white
+    
+}
+
+.loader{
+    background: url('http://www.broadwaybalancesamerica.com/images/ajax-loader.gif') no-repeat center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100px;
+    z-index: 9999999;
+    margin: auto;
+    width: 100%;
+}
+
+.thumbnail{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+

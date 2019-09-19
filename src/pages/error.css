@@ -1,0 +1,56 @@
+.notify-box {
+    margin: 5px 0px 15px 0px;
+}
+
+.notify-box p {
+    margin: 0px;
+    text-transform: none;
+    font-weight: 400; 
+    }
+
+.notify-box p.error {
+    color: #d01715; 
+}
+
+.error-pagewrap{
+    margin-top: 50px
+}
+
+.isLogin{
+    border: 1px solid;
+    border-radius: 20px;
+    background: white;
+    text-align: left;
+    vertical-align: top;
+}
+
+.btnLogout{
+    float: right;
+}
+
+.btnCancle{
+    float: right;
+    margin-right: 5px;
+}
+
+.btnExit{
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+.bodyhpanel{
+    border-top: 1px solid #ddd;
+}
+
+.loader{
+    background: url('http://www.broadwaybalancesamerica.com/images/ajax-loader.gif') no-repeat center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100px;
+    z-index: 9999999;
+    margin: auto;
+    width: 100%;
+}

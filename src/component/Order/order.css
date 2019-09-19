@@ -1,0 +1,48 @@
+h5 span {
+    font-weight: normal
+}
+
+.chooseAdd{
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.chooseMap{
+    margin-top: 23px;
+    float: left;
+    margin-left: 20px;
+}
+
+.centerbutton{
+   background: #006DF0;
+   font-size: 13px;
+   color: white;
+   height: 32px;
+   padding: 0px;
+}
+
+.no-map{
+    margin: auto;
+    width: 50%;
+    padding-top: 20px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.loading{
+    background: url('http://www.broadwaybalancesamerica.com/images/ajax-loader.gif') no-repeat center center;
+    position: inherit;
+    height: 100px;
+    margin-bottom: 250px;
+    width: 100%;
+}
+
+.loading1{
+    background: url('http://www.broadwaybalancesamerica.com/images/ajax-loader.gif') no-repeat center center;
+    position: inherit;
+    height: 100px;
+    width: 100%;
+}
